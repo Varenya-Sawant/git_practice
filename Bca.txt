@@ -1,0 +1,6 @@
+Bca
+	OOP
+	DBMS
+	COA
+	S/W ENG
+	Data Commm
